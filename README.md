@@ -9,5 +9,10 @@ If we select India in first dropdown it wont be availble to select in other drop
 
 Dropdowns are created using formbuilder so it's easy to add more dropdowns, add more controls.
 
+This project was generated with Angular CLI version 11.2.0.
+
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
 
 
